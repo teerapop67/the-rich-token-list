@@ -75,6 +75,30 @@
       "symbol": "ERTH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/earth.svg"
+    },
+    {
+      "address": "0x9Aac6FB41773af877a2Be73c99897F3DdFACf576",
+      "chainId": 1286,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/jupiter.svg"
+    },
+    {
+      "address": "0x9Aac6FB41773af877a2Be73c99897F3DdFACf576",
+      "chainId": 1287,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/jupiter.svg"
+    },
+    {
+      "address": "0x9Aac6FB41773af877a2Be73c99897F3DdFACf576",
+      "chainId": 1288,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/jupiter.svg"
     }
   ],
   "version": {
