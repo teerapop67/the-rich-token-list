@@ -100,6 +100,14 @@
       "symbol": "JUP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/jupiter.svg"
+    },
+    {
+      "address": "0x6e3B1C44C888487Ae92cc4651858F0a838Eb69A2",
+      "chainId": 1287,
+      "name": "TheRich",
+      "symbol": "TR",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmTkgXLbByttsdQVeviCS248qSWH77jcyfS9BHyVCK6PPi"
     }
   ],
   "version": {
