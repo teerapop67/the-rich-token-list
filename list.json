@@ -1,7 +1,7 @@
 {
-  "name": "Moon Menu",
+  "name": "The Rich Menu",
   "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
-  "keywords": ["moonbase", "tokens", "uniswap"],
+  "keywords": ["moonbase", "tokens", "The Rich"],
   "timestamp": "2021-05-10T00:00:00+00:00",
   "tokens": [
     {
@@ -13,46 +13,6 @@
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     },
     {
-      "address": "0xe573BCA813c741229ffB2488F7856C6cAa841041",
-      "chainId": 1286,
-      "name": "Token1",
-      "symbol": "TOK1",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
-    },
-    {
-      "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
-      "chainId": 1286,
-      "name": "Token2",
-      "symbol": "TOK2",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
-    },
-    {
-      "address": "0xD909178CC99d318e4D46e7E66a972955859670E1",
-      "chainId": 1286,
-      "name": "WDEV",
-      "symbol": "WDEV",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
-    },
-    {
-      "address": "0x08B40414525687731C23F430CEBb424b332b3d35",
-      "chainId": 1286,
-      "name": "Earth",
-      "symbol": "ERTH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/earth.svg"
-    },
-    {
-      "address": "0x9Aac6FB41773af877a2Be73c99897F3DdFACf576",
-      "chainId": 1286,
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/jupiter.svg"
-    },
-    {
       "address": "0xD909178CC99d318e4D46e7E66a972955859670E1",
       "chainId": 1287,
       "name": "WDEV",
@@ -71,31 +31,6 @@
     {
       "address": "0x9Aac6FB41773af877a2Be73c99897F3DdFACf576",
       "chainId": 1287,
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/jupiter.svg"
-    },
-    {
-      "address": "0xD909178CC99d318e4D46e7E66a972955859670E1",
-      "chainId": 1288,
-      "name": "WDEV",
-      "symbol": "WDEV",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
-    },
-    {
-      "address": "0x08B40414525687731C23F430CEBb424b332b3d35",
-      "chainId": 1288,
-      "name": "Earth",
-      "symbol": "ERTH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/earth.svg"
-    },
-
-    {
-      "address": "0x9Aac6FB41773af877a2Be73c99897F3DdFACf576",
-      "chainId": 1288,
       "name": "Jupiter",
       "symbol": "JUP",
       "decimals": 18,
